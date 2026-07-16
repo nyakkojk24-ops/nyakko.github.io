@@ -4,10 +4,10 @@ body {
     padding: 10px 20px;
 
     background-image: url('images/hero-bg.png');
-    background-size: 40%;
+    background-size: 40;
     background-position: center;
     background-attachment: fixed;
 
     background-color: #a0a0a0;
-    
+
 }
