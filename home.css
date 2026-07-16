@@ -11,8 +11,8 @@ body {
     background-color: #979797;
 
     .nav-icon {
-    width: auto;      /* あなたの好みの横幅（px）に調整してください */
-    height: 100px;     /* 縦横比を崩さない */
+    width: 100px;      /* あなたの好みの横幅（px）に調整してください */
+    height: 50px;     /* 縦横比を崩さない */
     
     /* ボタンっぽくするためのちょっとした工夫（お好みで） */
     transition: transform 0.2s; /* ホバー時の動きをなめらかに */

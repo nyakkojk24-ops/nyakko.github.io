@@ -30,8 +30,8 @@ body {
 }
 
 .nav-icon {
-    width: auto;
-    height: 100px;
+    width: 100px;
+    height: 50px;
     transition: transform 0.2s;
 }
 
